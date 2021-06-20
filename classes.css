@@ -1,6 +1,11 @@
 body{
     background-color: rgb(13, 17, 23);
+    width: 95%;
+    height: 100%;
 
+}
+#myApresentation{
+    position: fixed;
 }
 
 #myImage{
@@ -22,10 +27,28 @@ body{
     position: relative;
     left: -180px;
     top: 300px;
-    width: 40em;
+    width: 42em;
 
 }
 
+#namePortfolio{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:deepskyblue ;
+    position: relative;
+    font-size: 25px;
+    top: 60px;
+}
+
+#myText{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    position: relative;
+    font-size: 15px;
+    top: 75px;
+    left: 590px;
+    width: 45em;
+
+}
 
 #myName{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -39,4 +62,12 @@ body{
 img{
     border-color: blue;
     border-radius: 70%;
+}
+
+#redesSociais{
+    color: white;
+    position: relative;
+    top: 380px;
+    left: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
