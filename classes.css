@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(13, 17, 23);
+
+}
+
+#myImage{
+    width: 230px;
+    height: 230px;
+    float: left;
+    margin: auto 5px;
+    position: relative;
+    top: 50px;
+    left: 120px;
+    border-radius: 50%;
+    
+}
+
+#aboutMe{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: white;
+    position: relative;
+    left: -180px;
+    top: 300px;
+    width: 40em;
+
+}
+
+
+#myName{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: white;
+    position: relative;
+    top: 45px;
+    left: 50px;
+}
+
+img{
+    border-color: blue;
+    border-radius: 70%;
+}
