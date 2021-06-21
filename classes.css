@@ -1,11 +1,14 @@
 body{
-    background-color: rgb(13, 17, 23);
+    background-color: white;
     width: 95%;
     height: 85%;
 
 }
 #myApresentation{
     position: fixed;
+    width: 570px;
+    height: 900px;
+    
 }
 
 #myImage{
@@ -14,16 +17,17 @@ body{
     float: left;
     margin: auto 5px;
     position: relative;
+    align-self: center;
     top: 50px;
-    left: 120px;
+    left: 130px;
     border-radius: 50%;
     
 }
 
 #aboutMe{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 15px;
-    color: white;
+    color: black;
     position: relative;
     left: -180px;
     top: 300px;
@@ -32,17 +36,17 @@ body{
 }
 
 #namePortfolio{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:deepskyblue ;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:black ;
     position: relative;
     font-size: 25px;
     top: 46px;
-    left: 8px;
+    left: 3px;
 }
 
 #nameProject{
-    color: deepskyblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     font-style: italic;
     position: relative;
@@ -53,8 +57,8 @@ body{
 }
 
 #textTopic{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
     position: relative;
     font-size: 15px;
     top: 65px;
@@ -64,8 +68,8 @@ body{
 }
 
 #topic{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
     position: relative;
     top: 65px;
     left: 590px;
@@ -73,12 +77,12 @@ body{
 }
 
 #myName{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 25px;
-    color: white;
+    color: rgb(13, 5, 58);
     position: relative;
     top: 45px;
-    left: 50px;
+    left: 80px;
 }
 
 #grafico{
@@ -90,11 +94,11 @@ body{
 }
 
 #redesSociais{
-    color: white;
+    color: black;
     position: relative;
     top: 380px;
-    left: 150px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    left: 175px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .zoomGraph img:hover {
