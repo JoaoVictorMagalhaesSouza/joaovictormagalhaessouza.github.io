@@ -118,11 +118,18 @@ body{
 
 #mySkills{
     position: relative;
-    left: 590px;
+    left: 860px;
     top: 50px;
 }
 
   #tags{
     border-radius: 25%;
     
+}
+hr{
+    width: 695px;
+    position: relative;
+    left: 300px;
+    border-color: rgb(38, 124, 185);
+    top: 40px;
 }
