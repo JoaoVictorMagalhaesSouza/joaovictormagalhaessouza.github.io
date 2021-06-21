@@ -79,7 +79,8 @@ body{
     position: relative;
     top: 65px;
     left: 590px;
-    width: 30em;
+    width: 41em;
+    text-align: justify;
 }
 
 #myName{
@@ -115,9 +116,13 @@ body{
     transform: scale(1.7);
   }
 
+#mySkills{
+    position: relative;
+    left: 590px;
+    top: 50px;
+}
 
-
-  #iconProjeto{
+  #tags{
     border-radius: 25%;
     
 }
