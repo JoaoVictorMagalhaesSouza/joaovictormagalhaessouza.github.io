@@ -12,7 +12,8 @@ body{
 }
 #myPortfolio{
     position: relative;
-    top:20px;
+    top:19px;
+    right: 10px;
 }
 
 #myImage{
