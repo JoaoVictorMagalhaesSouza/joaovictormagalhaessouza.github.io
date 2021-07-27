@@ -123,6 +123,10 @@ body{
     border-radius: 25%;
     
 }
+#skills{
+    position: relative;
+    top:6px;
+}
 hr{
     width: 695px;
     position: relative;
