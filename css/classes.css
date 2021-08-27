@@ -95,7 +95,9 @@ body{
     position: relative;
     top: 80px;
     left: 590px;
+    
 }
+
 
 #redesSociais{
     color: black;
@@ -111,6 +113,7 @@ body{
     -o-transform: scale(1.7);
     -ms-transform: scale(1.7);
     transform: scale(1.7);
+    z-index:9999;
   }
 
 #mySkills{
