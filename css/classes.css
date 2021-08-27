@@ -116,9 +116,11 @@ body{
     z-index:9999;
   }
 a:visited {
+    font-weight: bold;
     color: rgb(38, 124, 185);
 }
 a:link{
+    font-weight: bold;
     color:rgb(38, 124, 185);
 }
 #mySkills{
