@@ -115,7 +115,12 @@ body{
     transform: scale(1.7);
     z-index:9999;
   }
-
+a:visited {
+    color: rgb(38, 124, 185);
+}
+a:link{
+    color:rgb(38, 124, 185);
+}
 #mySkills{
     position: relative;
     left: 860px;
