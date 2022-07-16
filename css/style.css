@@ -9,11 +9,11 @@ body{
     width: 50%;
 }
 
-#meuNome{
+#title{
     color:rgb(38, 124, 185);;
     position: relative;
     top: 50px;
-    left: 50px;
+    left: 6%;
 }
 
 #fotoJoao{
@@ -42,5 +42,25 @@ body{
 #secaoMinhaIntroducao{
     width: 500px;
     margin-left: 7%;
+    text-align: justify;
+}
+
+#cantoDireito{
+    margin-left: 50%;
+    width: 45%;
+    
+}
+
+#titleJobs{
+    color:rgb(0, 0, 0);;
+    position: relative;
+    top: 50px;
+    text-align: center;
+
+}
+#job{
+    text-align: center;
+}
+#jobText{
     text-align: justify;
 }
