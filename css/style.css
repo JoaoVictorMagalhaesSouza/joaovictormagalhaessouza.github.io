@@ -1,0 +1,46 @@
+body{
+    background-color:white;
+    width: 100%;
+    height: 100%;
+
+}
+#cantoEsquerdo{
+    position: fixed;
+    width: 50%;
+}
+
+#meuNome{
+    color:rgb(38, 124, 185);;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+#fotoJoao{
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+    margin-top: 20%;
+    margin-left: 60%;
+}
+
+#secaoFoto{
+    width: 300px;
+    height: 300px;
+
+}
+
+#secaoRedes{
+    width: 150px;
+    height: 50px;
+    margin-left: 29%;
+    margin-top: 2%;
+    position: relative;
+}
+
+
+#secaoMinhaIntroducao{
+    width: 500px;
+    margin-left: 7%;
+    text-align: justify;
+}
